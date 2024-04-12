@@ -1,0 +1,27 @@
+# Credentials and Secrets
+*.secret
+connectionstrings.config  
+*.key                       
+*.pfx                        
+
+# Sensitive Configuration Files
+security.config              
+encryption.keys             
+
+# Locally Specific Files
+.vscode/       
+.vs/                      
+obj/     
+Properties/
+# Ignore temporary files
+*.tmp
+packages/
+packages.config
+
+# Ignore OS-specific temporary files
+Thumbs.db                     # Windows thumbnail cache
+
+# Ignore version control metadata
+.git/
+*.suo                         # Visual Studio solution user options
+
