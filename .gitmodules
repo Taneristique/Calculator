@@ -1,0 +1,3 @@
+[submodule "Rust_Calculator_Dll"]
+	path = Rust_Calculator_Dll
+	url = https://github.com/Taneristique/Rust_Calculator_Dll
