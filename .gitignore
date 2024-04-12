@@ -12,10 +12,8 @@ encryption.keys
 .vscode/       
 .vs/                      
 obj/     
-Properties/
 # Ignore temporary files
 *.tmp
-packages/
 packages.config
 
 # Ignore OS-specific temporary files
